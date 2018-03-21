@@ -1,3 +1,3 @@
 
 def sumadoble(c,d):
-	return 2*(c+d)
+	return 2*(c+d) +2
